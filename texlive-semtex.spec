@@ -1,6 +1,6 @@
 Name:		texlive-semtex
 Version:	56530
-Release:	1
+Release:	2
 Summary:	Deals with stripped SemanTeX documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/semtex
