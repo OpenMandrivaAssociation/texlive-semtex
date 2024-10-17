@@ -3,7 +3,7 @@ Version:	56530
 Release:	2
 Summary:	Deals with stripped SemanTeX documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/semtex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/semtex
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/semtex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/semtex.doc.r%{version}.tar.xz
